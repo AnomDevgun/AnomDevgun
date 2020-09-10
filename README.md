@@ -4,7 +4,7 @@
 ### >Flutter app development.
 ### >Python, C and C++ programming.
 ### >Machine Learning.
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnomDevgun)](https://github.com/AnomDevgun/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnomDevgun)](https://github.com/anuraghazra/github-readme-stats)
 ![anoms github stats](https://github-readme-stats.vercel.app/api?username=AnomDevgun)
 <!--
 **AnomDevgun/AnomDevgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

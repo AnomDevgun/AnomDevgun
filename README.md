@@ -3,9 +3,7 @@
 ### My current areas of learning and application are:
 ### >Flutter app development.
 ### >Python, C and C++ programming.
-### >Machine Learning.
-#### I firmly believe in the freedom of code and in opensource development as a result of which all of my work is available in various repositories for anyones access.
-## *Technology is our past, present and future, capable of the most amazing things limited only by our imagination.* 
+### >Machine Learning. 
 <!--
 **AnomDevgun/AnomDevgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

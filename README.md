@@ -5,7 +5,7 @@
 ### >Python, C and C++ programming.
 ### >Machine Learning.
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnomDevgun)](https://github.com/AnomDevgun)
-![anoms github stats](https://github-readme-stats.vercel.app/api?username=AnomDevgun)
+![anoms github stats](https://github-readme-stats.vercel.app/api?username=AnomDevgun&theme=synthwave)
 <!--
 **AnomDevgun/AnomDevgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

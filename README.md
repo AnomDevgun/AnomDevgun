@@ -1,5 +1,5 @@
 # Hello there stranger or acquaintance! 👋
-## I am a computer science undergrad currently and am utterly fascinated by complexities of not only the software, but even the designs that are the basis of even the tiniest of  things in technology. I enjoy problem solving alongside a healthy dose of creativity and thought provocation.
+## I am a computer science undergrad currently and am utterly fascinated by complexities of not only the software, but also the designs that are the basis of even the tiniest of  things in technology. I enjoy problem solving alongside a healthy dose of creativity and thought provocation.
 ### My current areas of learning and application are:
 ### >Flutter app development.
 ### >Python, C and C++ programming.
